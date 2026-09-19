@@ -1,6 +1,6 @@
 `timescale 1ns/1ps
 module adder_tb;
-    localparam W = 4;
+    localparam W = 8;
     reg  [W-1:0] a, b;
     reg          cin;
     wire [W-1:0] sum;
