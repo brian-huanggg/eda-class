@@ -1,0 +1,34 @@
+
+8. Printing statistics.
+
+=== adder ===
+
+        +----------Local Count, excluding submodules.
+        |        +-Local Area, excluding submodules.
+        |        | 
+       56        - wires
+      101        - wire bits
+        5        - public wires
+       50        - public wire bits
+        5        - ports
+       50        - port bits
+       68  470.451 cells
+        2   15.014   sky130_fd_sc_hd__a211oi_1
+        1    7.507   sky130_fd_sc_hd__a21o_1
+        3   15.014   sky130_fd_sc_hd__a21oi_1
+        1    6.256   sky130_fd_sc_hd__a31oi_1
+        5    31.28   sky130_fd_sc_hd__and2_0
+        1    6.256   sky130_fd_sc_hd__lpflow_inputiso1p_1
+        2   12.512   sky130_fd_sc_hd__lpflow_isobufsrc_1
+        7   70.067   sky130_fd_sc_hd__maj3_1
+        5   18.768   sky130_fd_sc_hd__nand2_1
+        1    5.005   sky130_fd_sc_hd__nand3_1
+       13   48.797   sky130_fd_sc_hd__nor2_1
+        1    8.758   sky130_fd_sc_hd__o311ai_0
+        2   15.014   sky130_fd_sc_hd__o31ai_1
+       21  183.926   sky130_fd_sc_hd__xnor2_1
+        3   26.275   sky130_fd_sc_hd__xor2_1
+
+   Chip area for module '\adder': 470.451200
+     of which used for sequential elements: 0.000000 (0.00%)
+
